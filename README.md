@@ -29,4 +29,4 @@ Dashboard Viz link: https://public.tableau.com/views/HotelReservationAnalysis_17
 3) Develop targeted marketing campaigns tailored to the top booking countries, focusing on cultural nuances, language preferences, and travel trends to attract and retain international guests
 4) Adjust pricing based on seasonal demand to attract more guests during peak times and maintain competitiveness during slow periods.
 5) Offer flexible cancellation policies to accommodate guest needs while protecting revenue
-
+----
